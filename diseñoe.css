@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: orange;
+}
+
+header {
+    background-color: skyblue;
+    color: black;
+    padding: 2rem 3rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+table{
+    table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    text-align: left;
+    color: white;
+    padding: 10px;
+    font-size: 2rem;
+}
+
+.titulos{
+    text-align: center;
+    color: black;
+}
+
+.e1{
+    background-color: skyblue;
+    color: black;
+    padding: 3rem 2rem;
+}
+
+.t6{
+    font-size: 2rem;
+    text-align: center;
+}
